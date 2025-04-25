@@ -87,7 +87,6 @@ This project implements a multi-label movie genre classification system using a 
 
 ## Author
 - **Name**: Janapati Venkata Sriveda Manaswi
-- **Contact**: (Add your email or GitHub profile if desired)
 
 ## License
 This project is licensed under the MIT License - see below for details.
